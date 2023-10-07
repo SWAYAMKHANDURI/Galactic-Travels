@@ -2,7 +2,13 @@ body{
     font-family: 'Young Serif', serif;
 }
 
-main>.frame1 {
+main > img{
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+
+/* main>.frame1 {
     font-family: 'Young Serif', serif;
     background-image: url('../assets/others/index-frames/1.png');
     background-size: contain;
@@ -63,4 +69,4 @@ main>.frame7 {
     background-repeat: no-repeat;
     height: 45rem;
     width: 100%;
-}
+} */
